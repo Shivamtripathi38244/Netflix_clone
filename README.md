@@ -9,13 +9,7 @@ Home page with crousel
 ![Screenshot (63)](https://github.com/Shivamtripathi38244/Youtube-clone/assets/97452926/ef6a86cf-fb3e-4c41-829f-5d264cc18934)
 
 
-Search Page
-![Screenshot (57)](https://github.com/Shivamtripathi38244/Youtube-clone/assets/97452926/37ebbad2-a92f-41a6-ae0f-ffc5884a1996)
 
-Video page
-![Screenshot (58)](https://github.com/Shivamtripathi38244/Youtube-clone/assets/97452926/139b224a-5822-41dd-aea7-f3f84d788625)
-Responsive for mobile and tablet devices
-![Screenshot (59)](https://github.com/Shivamtripathi38244/Youtube-clone/assets/97452926/78685e64-816b-4f1c-aeb3-ed8dcf422e8f)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
